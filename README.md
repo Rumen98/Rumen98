@@ -30,6 +30,7 @@ I build complete web solutions — from backend architecture to deployment, digi
 | [bultorf.net](https://bultorf.net) | Agricultural products portal · Laravel · Tailwind |
 | [casino-ritz.eu](https://casino-ritz.eu) | Casino Ritz official website · Laravel · Livewire · Filament |
 | [doctorsgonovski.com](https://doctorsgonovski.com) | Medical clinic platform · Laravel · Filament |
+| [creditzona.bg](https://creditzona.bg) | Credit brokerage platform · Laravel · Google Ads management |
 
 ## 📫 Contact
 
