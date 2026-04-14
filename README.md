@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Rumen Koychev 👋
 
-<!--
-**Rumen98/Rumen98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Web Developer based in Plovdiv, Bulgaria.
+I build complete web solutions — from backend architecture to deployment, digital marketing, and brand management.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Back-End:** PHP · Laravel · Slim · MySQL · MariaDB · REST APIs
+**Front-End:** JavaScript · Alpine.js · Livewire · React · HTML5 · CSS3 · Tailwind CSS · Bootstrap
+**Admin:** Filament
+**DevOps:** Docker · Git · Linux · cPanel
+**Security:** CSP · HSTS · HTTP Headers hardening (Mozilla Observatory A+)
+
+## 🎯 Beyond the Code
+
+- Google Ads & Meta Ads — campaign audits, targeting, budget optimisation
+- SEO — organic growth, technical SEO
+- Adobe Photoshop — banners, brand visuals
+- Social media management — grew a Facebook page to 10,000+ followers
+- Client communication & project coordination
+
+## 🚀 Projects
+
+| Project | Description |
+|---|---|
+| [viscctv.com](https://viscctv.com) | Video surveillance platform · Laravel · Filament · Alpine.js |
+| [truckferry.eu](https://truckferry.eu) | Real-time ferry & logistics booking · Laravel · React |
+| [cskafantv.com](https://cskafantv.com) | Fan media platform for CSKA Sofia · Laravel · Livewire |
+| [promocars.org](https://promocars.org) | Automotive marketplace · Laravel · Filament |
+| [bultorf.net](https://bultorf.net) | Agricultural products portal · Laravel · Tailwind |
+| [casino-ritz.eu](https://casino-ritz.eu) | Casino Ritz official website · Laravel · Livewire · Filament |
+| [doctorsgonovski.com](https://doctorsgonovski.com) | Medical clinic platform · Laravel · Filament |
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rumen%20Koychev-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rumen-koychev-b4915b165)
